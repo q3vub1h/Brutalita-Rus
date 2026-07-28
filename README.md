@@ -1,7 +1,7 @@
 # Brutalita-Rus
 Russian minimalistic font
 
-![Demonstration](static/demo.png)
+![Demonstration](static/demonstration.png)
 
 # Copyright
 This font was made using [brutalita](https://github.com/javierbyte/brutalita) font editor made by [javierbyte](https://github.com/javierbyte).
