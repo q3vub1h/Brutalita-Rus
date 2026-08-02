@@ -1,5 +1,10 @@
 # Brutalita-Rus
-Russian minimalistic font
+Russian minimalistic futuristic font (.otf)
+
+Versions:
+- Regular
+- Light
+- Bold
 
 ![Demonstration](static/demonstration.png)
 
